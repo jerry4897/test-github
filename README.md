@@ -3,6 +3,7 @@
 
 > For 'PULL' testing.
 
+> Merge testing.
 ***For training members, Github***
 
 ## 2017.08.08 Github Training
