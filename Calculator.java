@@ -18,7 +18,8 @@ public class Calculator {
   }
 
   public static int mul ( int a, int b){
-    return a * b;
+    int result = a * b;
+    return result;
   }
 
   public static int div ( int a, int b){
