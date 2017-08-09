@@ -23,7 +23,7 @@ public class Calculator {
   }
 
   public static int div ( int a, int b){
-    int result = a / b;
+    int result = a / b; // conflict test
     return a / b;
   }
 }
