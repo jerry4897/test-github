@@ -26,4 +26,5 @@ public class Calculator {
     int result = a / b; // conflict test
     return a / b;
   }
+  // conflict 어렵네
 }
