@@ -1,8 +1,8 @@
-##github-training
+## github-training
 
 ***For training members, Github***
 
-##2017.08.08 Github Training
+## 2017.08.08 Github Training
 *Calculator.java*
 ```JAVA
 package com.mycompany.test;
@@ -26,10 +26,10 @@ public class Calculator {
 }
 ```
 
-##2017.08.09 Github Training
+## 2017.08.09 Github Training
 >장소:서강대학교
 
-##Index
+## Index
 * Markdown
 * Markdown 실습
 * Mockup Tool
