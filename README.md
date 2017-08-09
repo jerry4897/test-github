@@ -1,5 +1,6 @@
 ## github-training
-
+> Edited on Github.
+> For 'PULL' testing.
 ***For training members, Github***
 
 ## 2017.08.08 Github Training
